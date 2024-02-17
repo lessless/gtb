@@ -37,8 +37,8 @@ base = "Source Sans Pro"
 monospace = "Fira Mono"
 
 [params.seo]
-meta_twitter_site = "@zerostaticio"
-meta_twitter_creator = "@zerostaticio"
+meta_twitter_site = "@yevkurtov"
+meta_twitter_creator = "@yevkurtov"
 meta_og_image = "https://www.zerostatic.io/theme/hugo-atlantic/hugo-atlantic-screenshot.png"
 
 [build]
