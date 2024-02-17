@@ -3,7 +3,7 @@ title: "Beginning of the experiment"
 date: 2024-17-02T09:49:03+10:00
 author:
   name: "Yevhenii Kurtov"
-  image: images/author/sage-kirk.jpg
+  image: https://errencal.sirv.com/social-media/pink-shirt-square.png
   twitter: '@yevkurtov'
 categories: ["Agile", "Lean", "Startup"]
 tags: ["Entrepreneurship", "DevOps"]
